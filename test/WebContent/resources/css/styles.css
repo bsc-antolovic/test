@@ -1,0 +1,6 @@
+.sapMShellBrandingBar {
+	background-color: #E30018;
+}
+.sapMPageHeader::before {
+	border-top: 0.25rem solid #E30018;
+}

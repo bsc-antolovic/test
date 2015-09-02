@@ -1,0 +1,12 @@
+<core:View xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:core="sap.ui.core" 
+    xmlns:mvc="sap.ui.core.mvc" 
+    xmlns:layout="sap.ui.layout"
+    xmlns="sap.m" 
+    controllerName="bsc.example.view.Root"
+    displayBlock="true"
+    height="100%">
+
+	<App id="App"></App>
+
+</core:View>
